@@ -1,1 +1,1 @@
-dummy file
+The used data in my master thesis originates from [Twitter](www.twitter.com). It was provided in kind by my supervision. The used data was composed of daily Twitter dumps of tweets pertaining to various controversial topics. 
