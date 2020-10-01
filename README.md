@@ -1,7 +1,7 @@
 # Master thesis 
 The master thesis pertains to the analysis over-time of political polarisation over time on Twitter in regards to controversial topics. The source code in this repository represents a somewhat curated version of the code used in the thesis.   
 
-The political polarisation of users is estimated using the publically available [MCMC Bayesian Point Estimations](https://github.com/pablobarbera/twitter_ideology) and the [GraphSAGE](http://snap.stanford.edu/graphsage/), an inductive representation learning framework for graphs (via the keras library [StellarGraph](https://github.com/stellargraph/stellargraph)).   
+The political polarisation of users is estimated using the publically available [MCMC Bayesian Point Estimations](https://github.com/pablobarbera/twitter_ideology) and [GraphSAGE](http://snap.stanford.edu/graphsage/), an inductive representation learning framework for graphs (via the keras library [StellarGraph](https://github.com/stellargraph/stellargraph)). Access to the [Twitter API](https://developer.twitter.com/en/docs) is required to link the user screen names to their IDs (used in the point estimations).
 
 
 ### Thesis abstract:
