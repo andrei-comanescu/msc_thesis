@@ -21,4 +21,7 @@ our examined controversial topics have stagnated. We also explore the effects of
 controversial events on the conversation, thus revealing their short-term effect on the conversation
 as a whole. Additionally, the linkage between increased interest in a topic and the increase of
 political polarisation is explored. Our findings reveal that as the interest in the controversial topic
-increases, so does the political polarisation.
+increases, so does the political polarisation.  
+
+URN: http://urn.fi/URN:NBN:fi:hulib-202009294150
+
